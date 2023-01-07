@@ -8,7 +8,7 @@ const Todos = () => {
 
     useEffect(() => {
         dispatch(getAllTodos());
-    }, [])
+    }, []);
 
     return (
         <div>

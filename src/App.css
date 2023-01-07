@@ -55,6 +55,7 @@ article {
     grid-template-columns: auto auto;
   }
 }
+
 @media(min-width: 768px) {
   section {
     grid-template-columns: auto auto auto;
